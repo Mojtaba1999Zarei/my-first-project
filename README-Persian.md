@@ -86,7 +86,7 @@ no# 🚀 پروژه‌های تایمر حرفه‌ای و اعتبارسنجی 
 20️⃣ کپی مخزن:
 
 ```bash
-git clone https://github.com/Mojtaba 1999Zarei/my-first-project.git
+git clone https://github.com/Mojtaba1999Zarei/my-first-project.git
 ```
 
 - فایل‌های HTML را در مرورگر خود باز کنید:  
