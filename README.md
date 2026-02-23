@@ -84,16 +84,14 @@ These projects demonstrate:
 ---
 
 ## ▶️ How to Run
+1️⃣ Clone the repository:
 
-20️⃣ Clone the repository:
+git clone https://github.com/Mojtaba1999Zarei/my-first-project.git
 
-git clone https://github.com/your-username/your-repository-name.git
+2️⃣ Open the HTML files in your browser:
 
-Open the HTML files in your browser:
-
-Project-1-Signup-Timer/signup.html
-
-Project-2-Login/login.html
+Form-Timer/js5.html
+Registration form/login.html
 
 No installation required 
 
