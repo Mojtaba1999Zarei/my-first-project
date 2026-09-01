@@ -116,5 +116,5 @@ Store user data using LocalStorage
 
 👨‍💻 Author
 
-Your Name Mojtaba zarei
+Mojtaba zarei
 Front-End Developer (Learning & Practice Projects)
